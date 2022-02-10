@@ -13,10 +13,14 @@
     font-family: poppins;
     src: url(Poppins-SemiBold.ttf);
 }
+@font-face {
+    font-family: rowdies;
+    src: url(Rowdies-Regular.ttf);
+}
 
 /* navigation bar*/
 .logo {
-    font-family: poppins;
+    font-family: rowdies;
     font-size: 40px;
     color: #003459;
     font-weight: bold;
