@@ -135,7 +135,8 @@ border-radius: 20px;
 font-size: 15px;
 text-decoration: none;
 padding: 11px 19px 11px 22px;
-transform: translatey(-15px);
+transform: translatey(0px);
+transition: 0.2s ease;
 
 }
 .infotexts {
@@ -178,7 +179,10 @@ color: #003459;
 font-size: 16px;
 font-family: poppins;
 text-decoration: none;
+transition: 0.2s ease;
+
 }
+
 
 .main-collection {
 width: 100%;
@@ -198,8 +202,28 @@ background-color: rgb(243, 243, 243);
 border-radius: 12px;
 overflow: hidden;
 display: flex;
+transition: 0.2s ease;
 
-
+}
+.lmore:hover {
+    background-color: #c4e2f7;
+    color: #003459;
+    
+}
+.viewall:hover {
+color: #00345986;
+}
+.work-1:hover{
+    transform: scale(1.02);
+}
+.work-2:hover{
+    transform: scale(1.02);
+}
+.work-3:hover{
+    transform: scale(1.02);
+}
+.work-4:hover{
+    transform: scale(1.02);
 }
 .work-2 {
 width: 90%;
@@ -208,9 +232,11 @@ background-color: rgb(243, 243, 243);
 border-radius: 12px;
 overflow: hidden;
 display: flex;
+transition: 0.2s ease;
 
 
 }
+
 .work-3 {
 width: 90%;
 height: 80px;
@@ -218,9 +244,11 @@ background-color: rgb(243, 243, 243);
 border-radius: 12px;
 overflow: hidden;
 display: flex;
+transition: 0.2s ease;
 
 
 }
+
 .work-4 {
 width: 90%;
 height: 80px;
@@ -228,9 +256,11 @@ background-color: rgb(243, 243, 243);
 border-radius: 12px;
 overflow: hidden;
 display: flex;
+transition: 0.2s ease;
 
 
 }
+
 .dates{
 width: 20%;
 display: flex;
@@ -528,6 +558,26 @@ font-size: 14px;
     padding: 12px 20px 12px 23px;
     transform: translatey(-15px);
 
+}
+.lmore:hover {
+    background-color: #003459;
+    color: white;
+    
+}
+.viewall:hover {
+color: #003459;
+}
+.work-1:hover{
+    transform: scale(1);
+}
+.work-2:hover{
+    transform: scale(1);
+}
+.work-3:hover{
+    transform: scale(1);
+}
+.work-4:hover{
+    transform: scale(1);
 }
 .infotexts {
     display: flex;
@@ -1038,6 +1088,26 @@ border-radius: 5px;
     text-decoration: none;
     padding: 10px 15px 10px 18px;
     
+}
+.lmore:hover {
+    background-color: #003459;
+    color: white;
+    
+}
+.viewall:hover {
+color: #003459;
+}
+.work-1:hover{
+    transform: scale(1);
+}
+.work-2:hover{
+    transform: scale(1);
+}
+.work-3:hover{
+    transform: scale(1);
+}
+.work-4:hover{
+    transform: scale(1);
 }
 .infotexts {
     display: flex;
