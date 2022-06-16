@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="0001.css">
+    <script src="https://kit.fontawesome.com/c697a669aa.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <!--navigation menu-->
+
+     <nav>
+        <a class="logo" id="logo" href="/index.html" >Shahil Magar</a>
+        <button class="dmode"  id="dmode"><i class="fa-solid fa-circle-half-stroke"></i></button>
+     </nav>
+
+     <div class="main-div">
+        
+        <!-- recent -->
+
+        <div class="recent-post">
+            <h1 class="rec">Recent articles :</h1>
+            <div class="recmain">
+                <div class="rec-01">
+                    <div class="rec-text">
+                        <h1 class="rec-01-h">Old man</h1>
+                    </div>
+                    <div class="rec-image-01"></div>
+                </div>
+                <div class="rec-02">
+                    <div class="rec-text">
+                        <h1 class="rec-02-h">hellow world  i am shahil</h1>
+
+                    </div>
+                    <div class="rec-image-02"></div>
+                </div>
+                <div class="rec-03">
+                    <div class="rec-text">
+                        <h1 class="rec-03-h">water bottle</h1>
+
+                    </div>
+                    <div class="rec-image-03"></div>
+                </div>
+                
+            </div>
+        </div>
+
+       <!-- main content -->
+
+        <div class="main-content">
+            <div class="title-div">
+                <h1 class="title">Happy holi</h1>
+                <h1 class="publishedon">March 12, 2022</h1>
+
+            </div>
+            <div class="image-post"></div>
+            <div class="content-write">
+                <p class="work">It was an early December evening, days were shorter. It seemed that night hastened to chase the daylight and snatched the warmth of the earth.
+
+                    The shivering cold at Shikharkot made the customers surround the hearth of teashop to warm up themselves. More than drinking their tea, they enjoyed their leisured gossip and entertained the warmth of fireplace.
+                    
+                    Meanwhile a bus arrived and stopped near the teashop. It was the bus from Kathmandu. So they naturally drew their attention towards that bus as everyone expected something neoff the bus. Among them was a young lady. She was never seen before there in that village. Her dress, get up and appearance completely gave different look other than the villagers, she looked smart and attractive. So everyone from that teashop was gazing at her. The cleaner took out her suitcase from the bus. She lit her torch, rolled her suitcase and arrived at the gate of that teashop.
+                    
+                    ” Namaste to you all ! ” Her sweet voice echoed there. She modestly held her palms in Namaste posture.
+                    
+                    “Ah, Namaste sis! Namaste! You’re most welcome. Please come inside. Let’s have a cup of tea.” An adult person among the customers was the first to respond her, ” Oh thanks! ” She didn’t intend to waste her time but asked, “Could you tell me the way to a nice lodge nearby?”
+                    
+                    “Ah Ma’am, it’s nearby!” The lady shopkeeper pointed her finger to the left side, “Just pass over few houses!” “Thank you! Thank God. It’s nearby. Well, I’d love to have your cup of tea tomorrow morning. This time I’d better move”.
+                    
+                    “Just a moment please!” The lady shopkeeper called someone, “Chintoo! Hey Chintoo!” Immediately a small boy appeared from inside. The lady shopkeeper told him to help the lady reach the nearest Shikharkot lodge. Chintoo was hired to work for her at that tea shop.
+                    
+                    Before he was ready to move he asked, “Let me carry your rolling suitcase ma’am.”
+                    
+                    “No thanks!” The lady smiled and answered in a loving tone.
+                    
+                    Chintoo didn’t get the opportunity to carry the rolling suitcase. It would have been a new experience for him. But he received the lovely response as the precious prize from the young lady.
+                    
+                    “Here’s the lodge ma’am!” Chintoo pointed his finger towards the lodge. “Enjoy your stay here. I’ve to go ma’am. Namaste!. He was just about to move, the lady asked him to wait, “Hmm…your name’s…..Chintoo! Oh yes, isn’t it?” She asked. Chintoo nodded his head and smiled. The lady took out a ten rupee note from her wallet, gave it to him and said, “Well it’s for you. Buy sweets and enjoy!”
+                    
+                    Chintoo hesitated but she handed the note in his grip and said, “You’re such a good boy, Chintoo. I’ll come to your shop and drink tea, tomorrow morning ok Bye! She patted him and he ran away. Her eyes followed Chintoo for a moment…With some serene thought in her mind she entered the lodge.
+                    
+                    Before she went to bed, she started writing her diary and ended with these lines, “Arrived at Palung. I’ve full confidence to meet him here… It may take few more days.</p>
+            </div>
+        </div>
+
+        <!--  also read -->
+        
+        <div class="me-pic">
+                <div class="pic-my"></div>
+                <h1 class="finon"> Find me on :</h1>
+                <div class="smedia">
+                    <a href="https://www.instagram.com/shahil.mgr/" class="smab" target="_blank"><i class="fa fa-instagram"></i></a>
+                    <a href="https://twitter.com/dfrank_with_a_d?t=ZOOWeOqpAhPC9_MDUqAOPA&s=09" class="smab" target="_blank"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.linkedin.com/in/shahil-magar" class="smab" target="_blank"><i class="fa fa-linkedin"></i></a>
+                 </div>
+        </div>
+
+
+        <!-- recent -->
+
+        <div class="recent-post-2">
+            <h1 class="rec">Recent articles :</h1>
+            <div class="recmain">
+                <div class="rec-01">
+                    <div class="rec-text">
+                        <h1 class="rec-01-h">Old man</h1>
+                    </div>
+                    <div class="rec-image-01"></div>
+                </div>
+                <div class="rec-02">
+                    <div class="rec-text">
+                        <h1 class="rec-02-h">hellow world  i am shahil</h1>
+
+                    </div>
+                    <div class="rec-image-02"></div>
+                </div>
+                <div class="rec-03">
+                    <div class="rec-text">
+                        <h1 class="rec-03-h">water bottle</h1>
+
+                    </div>
+                    <div class="rec-image-03"></div>
+                </div>
+                
+            </div>
+        </div>
+
+
+     </div>
+      <!-- banner -->
+      <div class="bannerlanding">
+        <p class="copyright">© Shail Magar 2022</p>
+            </div>
+
+            <script src="0001.js">
+                
+            </script>
+</body>
+</html>
